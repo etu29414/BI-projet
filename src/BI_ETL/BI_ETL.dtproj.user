@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>{1E1A0E33-EF63-49D0-9892-B0B89920559B}</Id>
+            <Name>{1E1A0E33-EF63-49D0-9892-B0B89920559B}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcKaTEZgZakyMexkOFZabIwAAAABOAAAAewAxAEUAMQBBADAARQAzADMALQBFAEYANgAzAC0ANAA5AEQAMAAtADkAOAA5ADIALQBCADAAQgA4ADkAOQAyADAANQA1ADkAQgB9AAAAEGYAAAABAAAgAAAAm8oNc4I8mnKPUX9mhB7I0pc6ZHE0jasiP7m/sg9dvrkAAAAADoAAAAACAAAgAAAAJXDJLWTXelqckFGaFwzv1Ahq6KV0gF2I9Jq7ju9qneIgAAAADHBTfPpVmeIgin15L8ZCI5vL5t81QiqqLYlzIhjWAYxAAAAAJrwtmo+dWf3vxG9+Qxmpx8ouzAU6bXI05swaJ88izNOCIudrN2LOLFpBppxtw1+e4MKhgXbOmSNa6Tj1/4H8Mw==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>{1E1A0E33-EF63-49D0-9892-B0B89920559B}</Id>
+            <Name>{1E1A0E33-EF63-49D0-9892-B0B89920559B}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcKaTEZgZakyMexkOFZabIwAAAABOAAAAewAxAEUAMQBBADAARQAzADMALQBFAEYANgAzAC0ANAA5AEQAMAAtADkAOAA5ADIALQBCADAAQgA4ADkAOQAyADAANQA1ADkAQgB9AAAAEGYAAAABAAAgAAAAPXnr/mML1EoBAB4aHSqfLf+D53usvISpWXvw0nG8IywAAAAADoAAAAACAAAgAAAAzp+/2RjWTZfZdtunx5oLZdnNZ8NBAjCPEyctOIKKIV0gAAAAaPpzUuLoSn6dYqt/jhJBnCMSC6xizjmXlb1ZZfT4H5lAAAAAQYyZO+JiVSVmjPc4428dOlUxoTn4O/Nf2S5IIgsCgnyLkQIZ94/2OP0m8gjVtfa1XvBSX4LaBjxv4n1QEuZXwA==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+        <ParameterConfigurationSensitiveValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2018-01-23T12:54:09.4417051Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationSensitiveValues>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
